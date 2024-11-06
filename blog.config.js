@@ -5,7 +5,7 @@ const BLOG = {
   lightBackground: '#FFFFFF', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#222222', // use hex value, don't forget '#'
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  craftConfigShareUrl: https://flowers-dream-mws.craft.me/uf7ejiW8819xEp
+  craftConfigShareUrl: 'https://flowers-dream-mws.craft.me/uf7ejiW8819xEp'
     ? process.env.CRAFT_CONFIG_SHARE_URL
     : 'https://www.craft.do/s/kQtcWqkv98cHhB', // The link to share your craft config
   seo: {
